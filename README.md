@@ -7,6 +7,6 @@ Bu proje, "/content/data/output.csv" dosyasından bir veri seti okuyor ve üzeri
 
 ## Veri Kalitesi Raporu
 
-Bu veri seti analizi, verilerin temel kalitesi ve özelliklerini incelemek için kodun içerisinde ki bilgileri içerir.
+Bu veri seti analizi, verilerin temel kalitesi ve özelliklerini incelemek için Untitled0.ipynb dosyasındaki bilgileri içerir.
 
 
